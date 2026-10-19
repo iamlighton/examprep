@@ -1,0 +1,6 @@
+{
+  "name": "EHE PrepMaster - Ethical Hacking Exam Simulator",
+  "description": "Comprehensive scenario-based exam simulator, module drills, and practice testing suite for the EC-Council Ethical Hacking Essentials (EHE / CEPS 5.0) certification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
