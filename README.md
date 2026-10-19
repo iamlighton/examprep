@@ -1,6 +1,6 @@
 # PrepMaster - Certification & Exam Simulator Template
 
-> **Currently Configured For:** EC-Council Ethical Hacking Essentials (EHE / CEPS 5.0)  
+> **Currently Configured For:** EC-Council Ethical Hacking Essentials (EHE)  
 > **Architecture:** 100% Client-Side SPA (React 19 + TypeScript + Vite + Tailwind CSS)  
 > **Privacy & Offline Ready:** Zero database or external backend required. All user attempts, scores, and imported notes are saved privately in local browser storage (`localStorage`).
 
